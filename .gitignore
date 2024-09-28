@@ -1,3 +1,21 @@
+# .prettierrc.json
+У корені проєкту
+створи файл із назвою .prettierrc.json
+зроби копію налаштувань у блоці нижче та додай у свій файл .prettierrc.json
+# 
+{
+"printWidth": 80,
+"tabWidth": 2,
+"useTabs": false,
+"semi": true,
+"singleQuote": true,
+"trailingComma": "es5",
+"bracketSpacing": true,
+"jsxBracketSameLine": false,
+"arrowParens": "avoid",
+"proseWrap": "always"
+}
+
 # Logs
 logs
 *.log
